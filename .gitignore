@@ -1,0 +1,10 @@
+
+.ipynb_checkpoints/
+*.nc
+*.shp
+*.cpg
+*.dbf
+*.prj
+*.qmd
+*.shx
+folder_to_ignore/HMA_regions
