@@ -9,3 +9,4 @@
 *.shx
 folder_to_ignore/HMA_regions
 folder_to_ignore/era5_resampled_to_annual
+folder_to_ignore/out/timeseries
